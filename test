@@ -1,0 +1,1 @@
+isNaN((((totallyOfGreensOfDayFree.balance)/(totallyOfRedsOfDayFree.balance+totallyOfGreensOfDayFree.balance))*100).toFixed(2))?"0.00":(((totallyOfGreensOfDayFree.balance)/(totallyOfRedsOfDayFree.balance+totallyOfGreensOfDayFree.balance))*100).toFixed(2)
